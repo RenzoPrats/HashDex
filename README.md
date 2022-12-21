@@ -14,7 +14,7 @@ the structure of the JSON student is:
   "registration", "value"
 }
 
-## Compilação:
+## Compilation:
 On linux after install docker, you can compile and run in your project folder using:
 ```shell
 sudo docker build -t api .
