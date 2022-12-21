@@ -1,5 +1,5 @@
 # Hashdex Software Engineering Internship Challenge
-This program is an CRUD API for working with student data. It's possible to do CRUD operations by running the aplication server and send requests by some software like Postman and Insomnia. Following will be the URL, the method and which operation is performed:
+This program is a CRUD API for working with student data. It's possible to do CRUD operations by running the aplication server and send requests by some software like Postman and Insomnia. Following will be the URL, the method and which operation is performed:
 * GET http://localhost:5000/students lists all the students in database
 * GET http://localhost:5000/student/id lists the student by id in database
 * POST http://localhost:5000/student creates a new student by passing the values by JSON
